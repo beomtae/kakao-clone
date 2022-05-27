@@ -53,3 +53,19 @@
   margin-bottom: 10px;
   display: block;
 }
+
+.user-component__alert-box {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  color: red;
+  border: 1px solid red;
+  text-align: center;
+  font-size: 15px;
+  margin-left: 5px;
+  margin-top: 8px;
+}
+
+.user-component__container {
+  display: flex;
+}

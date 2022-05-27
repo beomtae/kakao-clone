@@ -1,0 +1,11 @@
+.alt-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 var(--horizontal-space);
+}
+
+.alt-header__title {
+  font-size: 28px;
+  font-weight: 600;
+}
